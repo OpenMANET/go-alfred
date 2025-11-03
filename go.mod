@@ -1,4 +1,4 @@
-module go-alfred
+module github.com/openmanet/go-alfred
 
-go 1.24
+go 1.21
 
