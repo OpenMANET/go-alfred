@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	alfred "go-alfred"
+	alfred "github.com/openmanet/go-alfred"
 )
 
 func main() {

@@ -14,7 +14,7 @@ import (
 	"syscall"
 	"time"
 
-	alfred "go-alfred"
+	alfred "github.com/openmanet/go-alfred"
 )
 
 const (
