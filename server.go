@@ -1,7 +1,7 @@
 package alfred
 
 /*
-#cgo CFLAGS: -I${SRCDIR}/alfred -std=gnu99 -D_GNU_SOURCE -fno-strict-aliasing
+#cgo CFLAGS: -w -I${SRCDIR}/alfred -std=gnu99 -D_GNU_SOURCE -fno-strict-aliasing
 #cgo LDFLAGS: -pthread
 #include <stdlib.h>
 #include "binding.h"
